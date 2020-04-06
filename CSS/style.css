@@ -67,6 +67,7 @@ body {
     background-color: white;
     box-shadow: 2px 3px 7px -2px #343434;
     border-width: 0;
+    margin-bottom: 10px;
 }
 
 #social {
